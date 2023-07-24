@@ -3,12 +3,15 @@ Please consider starring the repo if you find this useful in any manner
 or use it. It helps me a lot.
 -->
 
-<a href="https://www.rishit.tech"><img src="https://github.com/mageben717/mageben717/blob/main/images/header_image.png" width="900"></a>
+<a href="#"><img src="https://github.com/mageben717/mageben717/blob/main/images/header_image.png" width="900"></a>
  
 <img align='right' src='https://github.com/mageben717/mageben717/blob/main/images/octocat-anime.gif' width='150'>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/rishit_dagli?style=social)](https://twitter.com/intent/follow?screen_name=rishit_dagli) 
 [![GitHub followers](https://img.shields.io/github/followers/Rishit-dagli?label=Follow&style=social)](https://github.com/Rishit-dagli) 
+[![Medium](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/medium.svg)](https://medium.com/@rishit.dagli) 
+[![Website](https://img.shields.io/badge/rishit.tech--green?style=social&logo=google%20chrome)](https://www.rishit.tech/) 
+[![Stackoverflow](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/stackoverflow.svg)](https://stackoverflow.com/users/11878567/rishit-dagli)
 [![Medium](https://github.com/mageben717/mageben717/blob/main/badges/medium.svg)](https://medium.com/@rishit.dagli) 
 [![Website](https://img.shields.io/badge/rishit.tech--green?style=social&logo=google%20chrome)](https://www.rishit.tech/) 
 [![Stackoverflow](https://github.com/mageben717/mageben717/blob/main/badges/stackoverflow.svg)](https://stackoverflow.com/users/11878567/rishit-dagli)
