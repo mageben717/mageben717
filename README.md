@@ -8,13 +8,13 @@ or use it. It helps me a lot.
 <img align='right' src='https://github.com/mageben717/mageben717/blob/main/images/octocat-anime.gif' width='150'>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/rishit_dagli?style=social)](https://twitter.com/intent/follow?screen_name=rishit_dagli) 
-[![GitHub followers](https://img.shields.io/github/followers/Rishit-dagli?label=Follow&style=social)](https://github.com/Rishit-dagli) 
-[![Medium](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/medium.svg)](https://medium.com/@rishit.dagli) 
+[![GitHub followers](https://img.shields.io/github/followers/mageben717?label=Follow&style=social)](https://github.com/mageben717) 
+[![Medium](https://github.com/mageben717/mageben717/blob/master/badges/medium.svg)](https://medium.com/@rishit.dagli) 
 [![Website](https://img.shields.io/badge/rishit.tech--green?style=social&logo=google%20chrome)](https://www.rishit.tech/) 
-[![Stackoverflow](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/stackoverflow.svg)](https://stackoverflow.com/users/11878567/rishit-dagli)
+[![Stackoverflow](https://github.com/mageben717/mageben717/blob/master/badges/stackoverflow.svg)](https://stackoverflow.com/users/11878567/mageben717)
 [![Medium](https://github.com/mageben717/mageben717/blob/main/badges/medium.svg)](https://medium.com/@rishit.dagli) 
 [![Website](https://img.shields.io/badge/rishit.tech--green?style=social&logo=google%20chrome)](https://www.rishit.tech/) 
-[![Stackoverflow](https://github.com/mageben717/mageben717/blob/main/badges/stackoverflow.svg)](https://stackoverflow.com/users/11878567/rishit-dagli)
+[![Stackoverflow](https://github.com/mageben717/mageben717/blob/main/badges/stackoverflow.svg)](https://stackoverflow.com/users/11878567/mageben717)
 
 > Note: This is not my real contribution graph :laughing:
 
@@ -29,11 +29,11 @@ Hi, I'm [Dev Star](https://www.rishit.tech) a fullstack developer and an AI enth
 
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Ferromagnetic Potts Model](https://rishit-dagli.github.io/2023/03/07/ferromagnetic-potts.html)
-- [Compression techniques in Statistical Learning](https://rishit-dagli.github.io/2023/03/06/statistical-learning-using-compression.html)
-- [Review of Domain Generalization using Causal Matching: Causal Learning Series](https://rishit-dagli.github.io/2023/01/20/domain-generalization-using-causal-matching.html)
-- [Kubeflow Pipelines: Orchestrating Machine Learning Workflows - Part 3](https://rishit-dagli.github.io/2022/12/27/kubeflow-pipelines-orchestrating-machine-learning-workflows-part-3.html)
-- [How to Use GitHub Super Linter in Your Projects](https://rishit-dagli.github.io/2022/08/30/github-super-linter.html)
+- [The Ferromagnetic Potts Model](https://mageben717.github.io/2023/03/07/ferromagnetic-potts.html)
+- [Compression techniques in Statistical Learning](https://mageben717.github.io/2023/03/06/statistical-learning-using-compression.html)
+- [Review of Domain Generalization using Causal Matching: Causal Learning Series](https://mageben717.github.io/2023/01/20/domain-generalization-using-causal-matching.html)
+- [Kubeflow Pipelines: Orchestrating Machine Learning Workflows - Part 3](https://mageben717.github.io/2022/12/27/kubeflow-pipelines-orchestrating-machine-learning-workflows-part-3.html)
+- [How to Use GitHub Super Linter in Your Projects](https://mageben717.github.io/2022/08/30/github-super-linter.html)
 <!-- BLOG-POST-LIST:END -->
 
 <!--- 
@@ -41,10 +41,10 @@ Hi, I'm [Dev Star](https://www.rishit.tech) a fullstack developer and an AI enth
 
 |Organizer|Organizer|Mentor|
 |---------|---------|------|
-|<a href="https://kotlinmumbai.tech"><img src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/communities/kotlin_mumbai.png" height="100px"></a>|<a href="https://community.mozilla.org/groups/mozilla-mumbai/"><img src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/communities/mozilla_mumbai.png" height="100px"></a>|<a href="https://www.meetup.com/tfugmumbai/"><img src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/communities/tfug_mumbai.png" height="100px"></a>|
+|<a href="https://kotlinmumbai.tech"><img src="https://github.com/mageben717/mageben717/blob/master/communities/kotlin_mumbai.png" height="100px"></a>|<a href="https://community.mozilla.org/groups/mozilla-mumbai/"><img src="https://github.com/mageben717/mageben717/blob/master/communities/mozilla_mumbai.png" height="100px"></a>|<a href="https://www.meetup.com/tfugmumbai/"><img src="https://github.com/mageben717/mageben717/blob/master/communities/tfug_mumbai.png" height="100px"></a>|
 -->
 
-[![DevStar's github stats](https://github-readme-stats.vercel.app/api?username=Rishit-dagli&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/Rishit-dagli)
+[![DevStar's github stats](https://github-readme-stats.vercel.app/api?username=mageben717&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/mageben717)
 
 <!---
 If you like what I do and want me to build more such projects, maybe considering supporting me on PayPal or buying me a coffee :pleading_face:
