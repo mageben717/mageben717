@@ -9,12 +9,11 @@ or use it. It helps me a lot.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/rishit_dagli?style=social)](https://twitter.com/intent/follow?screen_name=rishit_dagli) 
 [![GitHub followers](https://img.shields.io/github/followers/mageben717?label=Follow&style=social)](https://github.com/mageben717) 
-[![Medium](https://github.com/mageben717/mageben717/blob/master/badges/medium.svg)](https://medium.com/@rishit.dagli) 
+
 [![Website](https://img.shields.io/badge/rishit.tech--green?style=social&logo=google%20chrome)](https://www.rishit.tech/) 
 [![Stackoverflow](https://github.com/mageben717/mageben717/blob/master/badges/stackoverflow.svg)](https://stackoverflow.com/users/11878567/mageben717)
 [![Medium](https://github.com/mageben717/mageben717/blob/main/badges/medium.svg)](https://medium.com/@rishit.dagli) 
 [![Website](https://img.shields.io/badge/rishit.tech--green?style=social&logo=google%20chrome)](https://www.rishit.tech/) 
-[![Stackoverflow](https://github.com/mageben717/mageben717/blob/main/badges/stackoverflow.svg)](https://stackoverflow.com/users/11878567/mageben717)
 
 > Note: This is not my real contribution graph :laughing:
 
