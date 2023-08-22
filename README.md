@@ -16,8 +16,7 @@ or use it. It helps me a lot.
 
 > Note: This is not my real contribution graph :laughing:
 
-Hi, I'm [Dev Star](https://www.rishit.tech) a fullstack developer and an AI enthusiast from 
-[World](https://www.google.com/maps/place/Rishit+Dagli/@19.2115497,72.8411235,15z/data=!4m5!3m4!1s0x0:0xf3ed3bb225394f3c!8m2!3d19.2115497!4d72.8411235):
+Hi, I'm [BenMage](https://www.rishit.tech) a frontend developer and an AI enthusiast:
 
 ### My top 10 technologies
 
