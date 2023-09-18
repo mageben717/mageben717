@@ -3,7 +3,7 @@ Please consider starring the repo if you find this useful in any manner
 or use it. It helps me a lot.
 -->
 
-<a href="#"><img src="https://github.com/mageben717/mageben717/blob/main/images/header_image.png" width="900"></a>
+
  
 <img align='right' src='https://github.com/mageben717/mageben717/blob/main/images/octocat-anime.gif' width='150'>
 
@@ -13,8 +13,6 @@ or use it. It helps me a lot.
 [![Website](https://img.shields.io/badge/rishit.tech--green?style=social&logo=google%20chrome)](https://www.rishit.tech/) 
 [![Medium](https://github.com/mageben717/mageben717/blob/main/badges/medium.svg)](https://medium.com/@rishit.dagli) 
 [![Website](https://img.shields.io/badge/rishit.tech--green?style=social&logo=google%20chrome)](https://www.rishit.tech/) 
-
-> Note: This is not my real contribution graph :laughing:
 
 Hi, I'm [Pookie](https://www.rishit.tech) a Fullstack web developer and an AI enthusiast:
 
